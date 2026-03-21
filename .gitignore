@@ -1,0 +1,15 @@
+out/
+__pycache__/
+
+src/*.exe
+src/*.o
+src/*.obj
+src/*_output.txt
+src/analysis_run_output.txt
+src/optimization_profile.cfg
+src/optimization_profile.txt
+src/xzx_data.csv
+src/xzx_report.txt
+src/xzx_optimization_report.txt
+
+tests/*.exe
